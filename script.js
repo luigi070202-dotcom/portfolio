@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // Scroll reveal observer
+    // Reveal animations
     const revealElements = document.querySelectorAll(
         '.project-card, .arch-card, .stack-box, .contact-tile'
     );
